@@ -1,7 +1,5 @@
-# FIAZHUSSAIN
 <h1 align="center">Hi ??, I'm FIAZ HUSSAIN</h1>
 <h3 align="center">A passionate Solidity developer from Pakistan</h3>
-https://www.datasciencecentral.com/wp-content/uploads/2021/11/9755333077-1280x720.png
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiazhussain786&label=Profile%20views&color=0e75b6&style=flat" alt="fiazhussain786" /> </p>
 
@@ -31,3 +29,4 @@ https://www.datasciencecentral.com/wp-content/uploads/2021/11/9755333077-1280x72
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiazhussain786&show_icons=true&locale=en" alt="fiazhussain786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiazhussain786&" alt="fiazhussain786" /></p>
+
