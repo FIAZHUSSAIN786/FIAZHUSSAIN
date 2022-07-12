@@ -1,0 +1,13 @@
+0x3328358128832A260C76A4141e19E2A943CD4B6D
+pragma solidity ^0.8.13;
+
+contract counter {
+ uint public count;
+
+ function increment() public {
+     count += 1;
+ } 
+ 
+ function decrement() public {
+      count -= 1;
+ }
