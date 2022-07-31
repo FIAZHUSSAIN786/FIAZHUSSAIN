@@ -1,0 +1,18 @@
+pragma solidity ^0.7.5;
+
+contract DataLocation {
+    //Storage.This is permanent storage. Like in form of state variables
+    //memory This is temporary storage and it is used in function arguments,function variables.
+    //calldata
+    uint number = 123;
+    string myname = "xyz";
+    uint mythirdnumber = 30;
+
+    function getString(string memory text, uint deposit) public pure returns(string memory) {
+        uint SecondNumer = 5;
+        string memory test = "this";
+        return text;
+    }
+    
+
+}
